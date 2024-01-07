@@ -19,8 +19,6 @@ export class ExerciseComponent {
   isEditing = false;
   searchKeyword = '';
 
-  constructor() { }
-
   addExercise(): void {
   }
 
